@@ -1,4 +1,4 @@
 frenchNotes
 ===========
 
-My french notes at AFB
+My french notes at AFB.
