@@ -1,4 +1,4 @@
 frenchNotes
 ===========
 
-My french notes at AFB.
+To compile, first install the pdflatex package and then use pdflatex main.tex from terminal.
